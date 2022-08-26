@@ -1,4 +1,4 @@
-module github.com/minpeter/localAuth
+module github.com/minpeter/basicBackend-with-go
 
 go 1.19
 
